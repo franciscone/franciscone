@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am a technology student at ETEC in Guarulhos and I seek to contribute more and more to the open source world! 🌎
+ I am a technology student at ETEC in Guarulhos and I seek to contribute more and more to the open source world! 🌎 
 
-### And I'm currently on a startup development project called EcoBrains! ♻️
+ And I'm currently on a startup development project called [EcoBrains](https://github.com/OB-Group/WebSite-EcoBrains)! ♻️
+ 
+ 
+ 
 ![Matheus Franciscone's github stats](https://github-readme-stats.vercel.app/api?username=MatheusFranciscone&count_private=true&theme=dark&show_icons=true&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranciscone&layout=compact&theme=dark)](https://github.com/MatheusFranciscone/github-readme-stats)
 
