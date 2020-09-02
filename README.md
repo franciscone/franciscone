@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Matheus Franciscone's github stats](https://github-readme-stats.vercel.app/api?username=MatheusFranciscone&count_private=true&theme=dark&show_icons=true&hide=contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranciscone&layout=compact&theme=dark)](https://github.com/MatheusFranciscone/github-readme-stats)
