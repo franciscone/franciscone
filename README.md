@@ -18,9 +18,10 @@
 
  These are my social media: 
  
-[Facebook](https://www.facebook.com/matheus.franciscone.7)
-[Instagram](https://www.instagram.com/_franciscone/)
-[LinkedIn](https://www.linkedin.com/in/matheus-franciscone/)
+* [Facebook](https://www.facebook.com/matheus.franciscone.7)
+* [Instagram](https://www.instagram.com/_franciscone/)
+* [LinkedIn](https://www.linkedin.com/in/matheus-franciscone/)
+
 Talk to me on whatever you want!
 
 <p align="center">
