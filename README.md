@@ -25,7 +25,9 @@ Talk to me on whatever you want!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusFranciscone&count_private=true&theme=dark&show_icons=true&hide=contribs" alt="MatheusFranciscone"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranciscone&layout=compact&theme=dark" alt="MatheusFranciscone"/> 
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranciscone&layout=compact&theme=dark)](https://github.com/MatheusFranciscone/github-readme-stats)
+
+<h2 align= "center" >I'm just a beginner who has a great desire to learn! </h2>
 
 
