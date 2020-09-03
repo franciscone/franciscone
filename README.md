@@ -2,7 +2,7 @@
 
  <h2 align="center"> Hi there, my name is Matheus Franciscone! 👋 </h2>
 
- I'm a technology student at ETEC in Guarulhos and I seek to contribute more and more to the open source world! 🌎 
+ I'm a technology student at ETEC Guarulhos and I seek to contribute more and more to the open source world! 🌎 
 
  And I'm currently on a startup development project called [EcoBrains](https://github.com/OB-Group/WebSite-EcoBrains)! ♻️
   
@@ -28,6 +28,6 @@ Talk to me on whatever you want!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranciscone&layout=compact&theme=dark" alt="MatheusFranciscone"/> 
 </p>
 
-<h2 align= "center" >I'm just a beginner who has a great desire to learn! </h2>
+<h2 align= "center" >I'm just a beginner who has a great desire to learn! 📚</h2>
 
 
