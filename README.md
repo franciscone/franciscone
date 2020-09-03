@@ -18,12 +18,14 @@
 
  These are my social media: 
  
-![Facebook](https://www.facebook.com/matheus.franciscone.7)
-![Instagram](https://www.instagram.com/_franciscone/)
-![LinkedIn](https://www.linkedin.com/in/matheus-franciscone/)
+[Facebook](https://www.facebook.com/matheus.franciscone.7)
+[Instagram](https://www.instagram.com/_franciscone/)
+[LinkedIn](https://www.linkedin.com/in/matheus-franciscone/)
 Talk to me on whatever you want!
- 
-![Matheus Franciscone's github stats](https://github-readme-stats.vercel.app/api?username=MatheusFranciscone&count_private=true&theme=dark&show_icons=true&hide=contribs)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusFranciscone&count_private=true&theme=dark&show_icons=true&hide=contribs" alt="MatheusFranciscone"/> 
+</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranciscone&layout=compact&theme=dark)](https://github.com/MatheusFranciscone/github-readme-stats)
 
 
