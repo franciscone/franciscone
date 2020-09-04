@@ -14,7 +14,7 @@
  ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
  ![CSS](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
  
- I´m Like play soccer and talk about tecnology! 👾
+ I Like to play soccer and talk about tecnology! 👾
 
  These are my social media: 
  
