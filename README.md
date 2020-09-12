@@ -13,6 +13,7 @@
  ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
  ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
  ![CSS](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+ ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
  
  I Like to play soccer and talk about tecnology! 👾
 
