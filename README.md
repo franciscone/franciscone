@@ -3,19 +3,15 @@
  # Matheus Franciscone
 
 
-Hello everyone! I'm a tech enthusiast since my 13 years...
+Hello everyone! I'm a tech enthusiast since my 13 years. I love speak about technology and everything envolving with that, graduated in Systems Development in ETEC Guarulhos when i have my first contact with computation, what in my project of conclusion course i desenvolved my fisrt Startup! Called [EcoBrains](https://github.com/OB-Group/WebSite-EcoBrains), with the prupose in help with garbage disposal, thinking in change the world for much more sustainable.
 
- I'm a technology student at ETEC Guarulhos and I seek to contribute more and more to the open source world! 🌎 
+Today, i studying computer science in [BandTec](https:/github.com/BandTec), because i love data an i believe than data is future! Speaking more of my passions, i also love the open source world and i desire contribute much and helping to change the world for better more with in technology.
 
- And I'm currently on a startup development project called [EcoBrains](https://github.com/OB-Group/WebSite-EcoBrains)! ♻️
- 
+[![Image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/matheus.franciscone.7)
+[![Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfranciscone/)
+[![Image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_franciscone/)
+[![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathfranciscone@gmail.com)
 
- These are my social media: 
- 
-* [Facebook](https://www.facebook.com/matheus.franciscone.7)
-* [Instagram](https://www.instagram.com/_franciscone/)
-* [LinkedIn](https://www.linkedin.com/in/matheus-franciscone/)
-
-Talk to me on whatever you want!
+Call me to talk more about anything! 😊
 
 ### _Just a beginner who has a great desire to learn._
