@@ -7,7 +7,7 @@ Hello everyone! I'm a tech enthusiast since my 13 years. I love speak about tech
 
 Today, i studying computer science in [BandTec](https:/github.com/BandTec), because i love data an i believe than data is future! Speaking more of my passions, i also love the open source world and i desire contribute much and helping to change the world for better more with in technology.
 
-This is my profesional account, my another account [@franciscone-lab](https:/github.com/franciscone-lab) is destined for learn and practice!
+This is my profesional account, my another account [@franciscone-lab](https://github.com/franciscone-lab) is destined for learn and practice!
 
 [![Image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/matheus.franciscone.7)
 [![Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfranciscone/)
