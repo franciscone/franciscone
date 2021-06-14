@@ -3,11 +3,11 @@
  # Matheus Franciscone
 
 
-Hello everyone! I'm a tech enthusiast since my 13 years. I love speak about technology and everything envolving with that, graduated in Systems Development in ETEC Guarulhos when I have my first contact with computation, what in my project of conclusion course I desenvolved my fisrt Startup! Called [EcoBrains](https://github.com/OB-Group/WebSite-EcoBrains), with the prupose in help with garbage disposal, thinking in change the world for much more sustainable.
+Hello everyone! I'm a tech enthusiast since my 13 years. I love talking about technology and everything envolving with that, graduated in Systems Development in ETEC Guarulhos when I had my first contact with computation, in my project of conclusion course I desenvolved my first Startup! Called [EcoBrains](https://github.com/OB-Group/WebSite-EcoBrains), it has the purpose of helping with garbage disposal, looking forward to change the world for a much more sustainable place.
 
-Today, I studying computer science in [BandTec](https:/github.com/BandTec), because I love data an I believe than data is future! Speaking more of my passions, I also love the open source world and I desire contribute much and helping to change the world for better more with in technology.
+Today, I am studying computer science in [BandTec](https:/github.com/BandTec), because I love data analysis, and I believe data is the future! Talking more of my passions, I also love the open source world and I desire contribute more and help to change the world with a better technology.
 
-This is my professional account, I have another account [@franciscone-lab](https://github.com/franciscone-lab) what is destined for learn and practice!
+This is my professional account, I have another account [@franciscone-lab](https://github.com/franciscone-lab) that is designed for learn and practice!
 
 [![Image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/matheus.franciscone.7)
 [![Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfranciscone/)
