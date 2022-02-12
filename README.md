@@ -5,7 +5,7 @@
 
 Hello everyone! I'm a tech enthusiast since my 13 years. I love talking about technology and everything envolving with that, graduated in Systems Development in ETEC Guarulhos when I had my first contact with computation, in my project of conclusion course I desenvolved my first Startup! Called [EcoBrains](https://github.com/OB-Group/WebSite-EcoBrains), it has the purpose of helping with garbage disposal, looking forward to change the world for a much more sustainable place.
 
-Today, I am studying computer science in [BandTec](https:/github.com/BandTec), because I love data analysis, and I believe data is the future! Talking more of my passions, I also love the open source world and I desire contribute more and help to change the world with a better technology.
+Today, I am studying computer science in SPTech, because I love data analysis, and I believe data is the future! Talking more of my passions, I also love the open source world and I desire contribute more and help to change the world with a better technology.
 
 This is my professional account, I have another account [@franciscone-lab](https://github.com/franciscone-lab) that is designed for learn and practice!
 
