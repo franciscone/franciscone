@@ -4,4 +4,4 @@ I am continuously deepening my knowledge in statistics, machine learning, and da
 
 ---
 
-"Always learning, building, and exploring."
+_Always learning, building, and exploring._
